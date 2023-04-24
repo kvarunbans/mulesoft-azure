@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>sample-mulesoft-app</artifactId>
+	<artifactId>mulesoft-azure</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
-	<name>sample-mulesoft-app</name>
+	<name>mulesoft-azure</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,9 +18,9 @@
 	</properties>
 
 	<scm>
-		<url>https://S0362429@dev.azure.com/S0362429/mulesoft-app/_git/sample-mulesoft-app</url> <!-- URL HTTP de clone do projeto -->
-		<connection>scm:git:https://S0362429@dev.azure.com/S0362429/mulesoft-app/_git/sample-mulesoft-app</connection> <!-- URL HTTP de clone do projeto -->
-		<developerConnection>scm:git:https://S0362429@dev.azure.com/S0362429/mulesoft-app/_git/sample-mulesoft-app</developerConnection> <!-- URL HTTP de clone do projeto -->
+		<url>https://github.com/kvarunbans/mulesoft-azure</url> <!-- URL HTTP de clone do projeto -->
+		<connection>scm:git:https://github.com/kvarunbans/mulesoft-azure.git</connection> <!-- URL HTTP de clone do projeto -->
+		<developerConnection>scm:git:https://github.com/kvarunbans/mulesoft-azure.git</developerConnection> <!-- URL HTTP de clone do projeto -->
 		<tag>HEAD</tag>
 	</scm>
 
