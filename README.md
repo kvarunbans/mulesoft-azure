@@ -1,1 +1,1 @@
-# 1.mulesoft-azure
+# mulesoft-azure
